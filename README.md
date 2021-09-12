@@ -73,10 +73,10 @@ Building the app in flutter
 - Github
 
 ## TEAM MEMBERS
-- [Aswani A T] {https://github.com/Ash-394}
-- [Athira M]
-- [Ann Mol][
-- [Ashitha P R]{https://github.com/Ashitha-18}
+- [Aswani A T] (https://github.com/Ash-394)
+- [Athira M](https://github.com/Athira502)
+- [Ann Mol]{
+- [Ashitha P R](https://github.com/Ashitha-18)
 
 ## WHATS NEXT
 - Incorporating AI and ML into the model
