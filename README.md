@@ -73,9 +73,9 @@ Building the app in flutter
 - Github
 
 ## TEAM MEMBERS
-- [Aswani A T] (https://github.com/Ash-394)
+- [Aswani A T](https://github.com/Ash-394)
 - [Athira M](https://github.com/Athira502)
-- [Ann Mol]{
+- [Ann Mol](https://github.com/AnnMol-2002)
 - [Ashitha P R](https://github.com/Ashitha-18)
 
 ## WHATS NEXT
