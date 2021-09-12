@@ -25,7 +25,7 @@ From the environmental research article here, we can see the various individual 
 Most times people are unaware of how their small actions can affect the story as a whole. So an app that can monitor and analyze people’s  actions in a fun and engaging way can be motivational and can have a positive impact.
 
  
-WHAT IT DOES:
+## WHAT IT DOES:
 
 Our app encourages people to work towards  a sustainable future. We have set up a gamified environment where people can connect with their friends and challenge each other to take steps for an eco-friendly living.
 Users can record the actions that they currently do like changing all the lights to  LEDs, using cloth bags for shopping, etc. Depending upon the impact of their actions users can earn coins as rewards.
@@ -43,20 +43,20 @@ In order to make it a bit exciting there is also a leaderboard that shows the ac
 Another feature of the app is an option for donating for causes  that support the environment. Users can also volunteer for various events . The latest news and events are made available using AI. The AI model analyzes the activity of the user in the app and gives suggestions accordingly.
 
 
-HOW WE BUILT IT:
+## HOW WE BUILT IT:
 Our team discussions were conducted via google meet and whatsapp. We exchanged our thoughts on the idea and gave it a proper structure. The design for the prototype of the app was made using  figma. We built the front end of the app using flutter. The website for the app was built using qoom.
 
-CHALLENGES WE RAN INTO:
--  Incorporating all our ideas properly into our prototype
+## CHALLENGES WE RAN INTO:
+-  Incorporating all our ideas properly into our prototype;
    Organising and connecting our ideas to design the prototype in figma was a task.
--  Building the front end of the app using flutter 
+-  Building the front end of the app using flutter; 
    Pushing the flutter project into github was a bit difficult.
-- Hosting the website 
+- Hosting the website;
    We faced some issues while deploying the github page.
-- learning the basics of AI and ML technology. 
+- learning the basics of AI and ML technology; 
   As we are beginners, it would still take up a lot of time, work and knowledge for the model to be    functional. 
 
-WHAT WE LEARNT
+## WHAT WE LEARNT
 There are a lot of things that we learnt throughout the course of this hackathon. 
 Working as a team
 Designing in figma
@@ -65,14 +65,14 @@ Pushing files into github
 Building the app in flutter
 
 
-BUILT WITH
+## BUILT WITH
 - Figma
 - Flutter
 - Qoom
 - Git
 - Github
 
-WHATS NEXT
+## WHATS NEXT
 - Incorporating AI and ML into the model
 - Building the back end
 - Improve the user interface
